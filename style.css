@@ -1,0 +1,16 @@
+h3{
+  font-size: 25px !important;
+  color: black !important;
+}
+canvas{
+  border: 4px black solid;
+}
+
+#snap_button{
+  background-color: mediumslateblue;
+  font-size: 18;
+  border-radius: 10;
+}
+body{
+  background-image: url("5361112.webp");
+}
